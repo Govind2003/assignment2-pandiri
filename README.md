@@ -21,3 +21,30 @@ GOA is the **best place** to enjoy as it is the only **place** where it contains
 * sunglasses
 * Tabs
 
+---
+
+**[About Me](AboutMe.md)**
+
+---
+
+# My Favourite Food Items
+
+These are the best food items that you can find here in USA
+
+| Item  | Location  | Cost  |   
+|---|---|---|
+| Biryani  |  Bawarchi |  $12.99 |   
+|  Ice cream | Arun  |  $2.55 |   
+| Tacos  |Tacobell   |$4.99   |
+|   Burger| Burger king  |  $2.99 |
+
+***
+
+# Pithy Quotes
+
+>Beauty in things exists in the mind which contemplates them. - *David Hume*
+
+>There is no excellent beauty that hath not some strangeness in the proportion. - *Francis Bacon*
+
+---
+
