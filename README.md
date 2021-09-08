@@ -14,4 +14,10 @@ GOA is the **best place** to enjoy as it is the only **place** where it contains
     1. Dayton is located in Ohio state. 
 4. Atlast have to take road journey from Dayton to Fairborn about 25 minutes of travel. 
 
-# Favourite Things To Carry While Travelling To Favourite Place
+# Favourite Things To Carry While Travelling To Favourite Place 
+
+* Camera
+* clothes
+* sunglasses
+* Tabs
+
